@@ -1,0 +1,12 @@
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\bin\Debug\Nim Game.exe.config
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\bin\Debug\Nim Game.exe
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\bin\Debug\Nim Game.pdb
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\bin\Debug\Nim Game.xml
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim_Game.Form1.resources
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim_Game.Resources.resources
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.exe
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.xml
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.pdb
+G:\My Drive\Courses\CS1\07 Subs\Nim Game\obj\Debug\Nim Game.vbprojAssemblyReference.cache
